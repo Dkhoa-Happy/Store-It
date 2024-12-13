@@ -32,7 +32,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "i.pinimg.com", // Thêm hostname của Pinterest
+        hostname: "i.pinimg.com",
       },
     ],
   },
